@@ -1,1 +1,4 @@
-[![Chibi_Paimon_Smug](https://emoji.gg/assets/emoji/1306-chibi-paimon-smug.png)](https://emoji.gg/emoji/1306-chibi-paimon-smug) Hi, I'm Water.
+[![developer_transparent](https://emoji.gg/assets/emoji/8740_developer_transparent.gif)](https://emoji.gg/emoji/8740_developer_transparent)
+
+Hello
+
